@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 51 66" xmlns="http://www.w3.org/2000/svg">
+<polygon class="triangulo" points="25 1 50 50 1 50" fill="none" stroke="#000"/>
+<polygon class="triangulo2" points="25 65 50 15 1 15" fill="none" stroke="#000"/>
+</svg>
